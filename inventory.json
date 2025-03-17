@@ -1,0 +1,5 @@
+[
+  {"product_id": "123", "name": "T-shirt", "quantity": 5},
+  {"product_id": "456", "name": "Jeans", "quantity": 15},
+  {"product_id": "789", "name": "Sneakers", "quantity": 8}
+]
