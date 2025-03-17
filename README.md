@@ -31,7 +31,8 @@ This project tracks inventory stored in an S3 bucket and uses AWS Lambda to chec
 ## How It Works
 1. Upload `inventory.json` to S3.
 2. Lambda runs hourly, parsing the JSON and checking quantities.
-3. SNS emails alerts for items with <10 units (e.g., "Low stock alert: T-shirt (ID: 123) has 5 units left!").
+3. SNS emails alerts for items with <10 units (e.g., "Low stock alert: T-shirt (ID: 123) has 5 units left!")
+![Email Alert Example](email_alert_screenshot.png)
 
 ## AWS Free Tier Usage
 - **S3**: ~183 bytes (< 5 GB).
