@@ -52,4 +52,4 @@ This project tracks inventory stored in an S3 bucket and uses AWS Lambda to chec
 Exploring enhancements like DynamoDB for real-time inventory updates or Athena for analytics—areas I’m eager to dive deeper into as an AWS data enthusiast.
 
 ---
-Created by LihleDon | GitHub: https://github.com/LihleDon
+Created by LihleDon | GitHub: https://github.com/LihleDon | LinkedIn: www.linkedin.com/in/lihle-dotyeni-28297126b
